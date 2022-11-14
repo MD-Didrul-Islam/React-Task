@@ -1,5 +1,6 @@
 .App {
   text-align: center;
+  margin-top: 25px;
 }
 
 .App-logo {
@@ -11,6 +12,13 @@
   .App-logo {
     animation: App-logo-spin infinite 20s linear;
   }
+}
+button{
+  margin-right: 25px;
+  color: black;
+  background-color: #61dafb;
+  border: 1px solid;
+  padding: 15px 25px ;
 }
 
 .App-header {
